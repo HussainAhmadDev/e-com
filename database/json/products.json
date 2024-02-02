@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Samsung A20",
+        "price": 200 ,
+        "description": "A very good mobile with new features",
+        "category": "mobile",
+        "image": "https://images.app.goo.gl/jSCC9diUravXccFD8"
+    },
+    {
+        "name": "Samsung A20s",
+        "price": 400 ,
+        "description": "A very good mobile with new features",
+        "category": "mobile",
+        "image": "https://images.app.goo.gl/jSCC9diUravXccFD8"
+    },
+    {
+        "name": "Samsung A20",
+        "price": 600 ,
+        "description": "A very good mobile with new features",
+        "category": "mobile",
+        "image": "https://images.app.goo.gl/jSCC9diUravXccFD8"
+    },
+    {
+        "name": "Samsung A20",
+        "price": 800 ,
+        "description": "A very good mobile with new features",
+        "category": "mobile",
+        "image": "https://images.app.goo.gl/jSCC9diUravXccFD8"
+    }
+]
