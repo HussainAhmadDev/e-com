@@ -10,7 +10,7 @@ use App\Models\Product;
 class ProductSeeder extends Seeder
 {
     /**
-     * Run the database ks
+     * Run the database 
      */
     public function run(): void
     {
